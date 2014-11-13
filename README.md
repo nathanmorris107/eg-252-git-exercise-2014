@@ -12,8 +12,10 @@ See [The Project Gutenberg License](http://www.gutenberg.org/wiki/Gutenberg:The_
 Don't forget to add your name and your student number to this file (which is `README.md`), 
 and stage and commit it before pushing your finished work to your fork of
 the original repository 
-[github.com/cpjobling/eg-252-git-exercise-2014](http://github.com/cpjobling/eg-252-git-exercise-2014)
-and sending me a [pull request](https://help.github.com/articles/using-pull-requests/).
+[github.com/cpjobling/eg-252-git-exercise-2014](http://github.com/cpjobling/eg-252-git-exercise-2014).
+
+You submit the work for assessment you have to send me a GitHub
+[pull request](https://help.github.com/articles/using-pull-requests/).
 
 This work submitted for assessment by name (number)
 
